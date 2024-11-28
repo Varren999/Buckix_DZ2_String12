@@ -1,0 +1,7 @@
+C:\Users\varre\source\repos\Buckix_DZ2_String12\Buckix_DZ2_String12\bin\Debug\Buckix_DZ2_String12.exe.config
+C:\Users\varre\source\repos\Buckix_DZ2_String12\Buckix_DZ2_String12\bin\Debug\Buckix_DZ2_String12.exe
+C:\Users\varre\source\repos\Buckix_DZ2_String12\Buckix_DZ2_String12\bin\Debug\Buckix_DZ2_String12.pdb
+C:\Users\varre\source\repos\Buckix_DZ2_String12\Buckix_DZ2_String12\obj\Debug\Buckix_DZ2_String12.csproj.AssemblyReference.cache
+C:\Users\varre\source\repos\Buckix_DZ2_String12\Buckix_DZ2_String12\obj\Debug\Buckix_DZ2_String12.csproj.CoreCompileInputs.cache
+C:\Users\varre\source\repos\Buckix_DZ2_String12\Buckix_DZ2_String12\obj\Debug\Buckix_DZ2_String12.exe
+C:\Users\varre\source\repos\Buckix_DZ2_String12\Buckix_DZ2_String12\obj\Debug\Buckix_DZ2_String12.pdb
